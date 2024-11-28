@@ -1,7 +1,7 @@
 # MessengerBot
 
 ## Description
-Đây là con bot dùng cho 1 page nào tùy theo nhu cầu dùng của mỗi cá nhân
+Đây là con bot dùng cho 1 page nào tùy theo nhu cầu dùng của mỗi cá nhân.
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@
 ## Requirement
 
 - Javascript
-- Webhook Ngrok (If using localhost)
+- Webhook Ngrok (nếu host local hoặc free)
 - Meta graph api
 
 ## Installation
