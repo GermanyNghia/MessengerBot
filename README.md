@@ -37,7 +37,7 @@
 
 ## Usage
 
-1. Setup môi trường
+1. Setup thư mục
 - Tạo 1 thư mục mình muốn lưu trữ con bot này
 - Mở CMD tại thư mục đấy và nhập lệnh  "npm install --save body-parser config express request" và "npm install dotenv"
 2. Cấu hình file
