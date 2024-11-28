@@ -40,5 +40,13 @@
 - Mở CMD tại thư mục đấy và nhập lệnh  "npm install --save body-parser config express request" và "npm install dotenv"
 2. Cấu hình file
 - Mở file server.env lên
+
 ![image](https://github.com/user-attachments/assets/bb4ffebd-9375-43f6-aa56-c20e0a58de00) 
+
+- Thay "VERIFY_TOKEN" thành mã tùy ý mà bạn muốn
+- Thay "PAGE_ID" thành page id của bạn (trong tính minh bạch của trang)
+- Thay "PAGE_ACCESS_TOKEN" thành token mà bạn lấy được từ phần "Tạo mã truy cập"
+
+![image](https://github.com/user-attachments/assets/e900869a-8dbe-4070-a180-d7d6e6fa842e)
+
 3. 
